@@ -1,3 +1,0 @@
-E:/codes of clion/count leaf node/cmake-build-debug/CMakeFiles/count_leaf_node.dir
-E:/codes of clion/count leaf node/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/codes of clion/count leaf node/cmake-build-debug/CMakeFiles/rebuild_cache.dir
