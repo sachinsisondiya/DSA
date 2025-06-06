@@ -1,0 +1,17 @@
+# ninja log v5
+86	1577	7709014425068334	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1592	2259	7709014431786053	heap_questions.exe	809b1d8099506a3b
+31	1506	7709015038909986	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1507	1847	7709015042232493	heap_questions.exe	809b1d8099506a3b
+74	1186	7709015663263517	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1188	1445	7709015665765129	heap_questions.exe	809b1d8099506a3b
+94	2574	7709034208621820	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+2575	2858	7709034211375989	heap_questions.exe	809b1d8099506a3b
+117	2304	7709053341009857	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+2305	2872	7709053346631429	heap_questions.exe	809b1d8099506a3b
+54	1123	7709053796260101	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1124	1396	7709053798803145	heap_questions.exe	809b1d8099506a3b
+54	1075	7709054097029073	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1076	1334	7709054099511949	heap_questions.exe	809b1d8099506a3b
+67	1663	7709056952861049	CMakeFiles/heap_questions.dir/main.cpp.obj	810e87dd0c9c4eee
+1665	1924	7709056955365602	heap_questions.exe	809b1d8099506a3b
