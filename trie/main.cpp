@@ -69,6 +69,33 @@ public:
     bool search(string word){
         return searchUtil(root,word);
     }
+    // remove logic
+
+    void removeUtil(TrieNode* root, string word){
+        if(word.length() ==0){
+                root->terminal=false;
+                return;
+
+
+        }
+
+        int index = word[0]-'A';
+        TrieNode* child;
+
+        if(root->children[index] !=NULL){
+            child=root->children[index];
+        }
+        else{
+            return ;
+        }
+         removeUtil(child , word.substr(1));
+    }
+
+
+
+    void remove(string word){
+        removeUtil(root,word);
+    }
 };
 int main(){
     Tries* t=new Tries();
@@ -76,6 +103,10 @@ int main(){
     t->insert("ABBC");
     cout<<t->search("ABCD")<<endl;
     cout<<t->search("ABB");
+    cout<<endl;
+    t->remove("ABCD");
+    cout<<t->search("ABCD")<<endl;
+
 
 
 
