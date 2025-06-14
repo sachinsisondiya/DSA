@@ -1,0 +1,8 @@
+# ninja log v5
+65	1185	7715410067625844	CMakeFiles/trie.dir/main.cpp.obj	157cbe8dc2e4296f
+1187	1466	7715410070301266	trie.exe	3cbdd0748de9ce9e
+140	1030	7715953074058295	CMakeFiles/trie.dir/main.cpp.obj	157cbe8dc2e4296f
+169	2259	7715953088492624	CMakeFiles/trie.dir/common_prefix.cpp.obj	3d2969c9aa715581
+2260	2978	7715953095574721	trie.exe	dee99c9c17ec38f3
+15	1748	7715959239422105	CMakeFiles/trie.dir/common_prefix.cpp.obj	3d2969c9aa715581
+1749	2143	7715959243174948	trie.exe	dee99c9c17ec38f3
