@@ -802,8 +802,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/clions code/trie/cmake-build-debug",
-		"source" : "E:/clions code/trie"
+		"build" : "E:/clions code/trie/trie/cmake-build-debug/cmake-build-debug",
+		"source" : "E:/clions code/trie/trie/cmake-build-debug"
 	},
 	"version" : 
 	{
