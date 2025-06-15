@@ -1,0 +1,12 @@
+# ninja log v5
+24	852	7716803418311123	build.ninja	b9aa8e3c4e224373
+128	2311	7716803444110249	CMakeFiles/backtracking.dir/rat_maze.cpp.obj	fb4dee5a6d4a751
+2318	2695	7716803447820778	backtracking.exe	379806b8fbef2d11
+12	1899	7716809710395932	CMakeFiles/backtracking.dir/rat_maze.cpp.obj	fb4dee5a6d4a751
+1900	2288	7716809714232811	backtracking.exe	379806b8fbef2d11
+47	1786	7716811114919244	CMakeFiles/backtracking.dir/rat_maze.cpp.obj	fb4dee5a6d4a751
+1787	2153	7716811118549184	backtracking.exe	379806b8fbef2d11
+73	1876	7716812090145551	CMakeFiles/backtracking.dir/rat_maze.cpp.obj	fb4dee5a6d4a751
+1877	2226	7716812093557099	backtracking.exe	379806b8fbef2d11
+65	1838	7716813321795337	CMakeFiles/backtracking.dir/rat_maze.cpp.obj	fb4dee5a6d4a751
+1843	2201	7716813325312922	backtracking.exe	379806b8fbef2d11
