@@ -1,0 +1,13 @@
+# ninja log v5
+39	1894	7739547860368750	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+1895	2202	7739547863373298	recursion.exe	28cb79c0c2c33f4d
+76	1703	7739551039476432	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+1704	2146	7739551043741146	recursion.exe	28cb79c0c2c33f4d
+115	1792	7739552789079478	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+1793	2266	7739552793763693	recursion.exe	28cb79c0c2c33f4d
+60	1585	7739554923407942	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+1587	2029	7739554927759271	recursion.exe	28cb79c0c2c33f4d
+162	1753	7739555951086765	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+1755	2054	7739555953994182	recursion.exe	28cb79c0c2c33f4d
+66	2308	7739557233293556	CMakeFiles/recursion.dir/main.cpp.obj	dbe24e40da2eef86
+2309	2723	7739557237373916	recursion.exe	28cb79c0c2c33f4d
