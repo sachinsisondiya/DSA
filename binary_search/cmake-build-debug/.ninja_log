@@ -1,0 +1,7 @@
+# ninja log v5
+48	456	7766795447953408	CMakeFiles/binary_search.dir/main.cpp.obj	3dd3c0b930086dca
+2653	3347	7766831772123340	binary_search.exe	3d795cc296dee125
+178	2652	7766831765308969	CMakeFiles/binary_search.dir/lower_bound.cpp.obj	1e383549b2163cee
+69	1327	7766840790332030	CMakeFiles/binary_search.dir/upper_bound.cpp.obj	309c44965610fece
+56	265	7766840950477625	CMakeFiles/binary_search.dir/lower_bound.cpp.obj	1e383549b2163cee
+266	578	7766840953650065	binary_search.exe	7713744c5e8de1db
